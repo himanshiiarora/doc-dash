@@ -80,6 +80,11 @@ body .all #menubar .nav-img .images_1 {
           align-items: center;
 }
 
+body .all #menubar .nav-img .images_1 a {
+  text-decoration: none;
+  color: #7B7A79;
+}
+
 body .all #main-content {
   -ms-grid-row: 1;
   -ms-grid-column: 2;
